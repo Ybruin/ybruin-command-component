@@ -1,0 +1,27 @@
+{
+  "name": "ybruin-command-init",
+  "version": "0.1.5",
+  "description": "ybruin init command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ybruin"
+  ],
+  "author": {
+    "name": "Ybruin Team"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "yeoman-generator": "0.20.0",
+    "generator-ybruin": "^0.1.0"
+  },
+  "readme": "# ybruin-command-init\n#### mkdir test\n#### cd test && ybruin init\n",
+  "readmeFilename": "README.md",
+  "gitHead": "a6f0a73e6c96c6dae842e7011af3544b7079edae",
+  "_id": "ybruin-command-init@0.1.5",
+  "_shasum": "5b05ae39b99203bbc8e59cf45acf0b352a6738aa",
+  "_from": "ybruin-command-init@>=0.1.2 <0.2.0"
+}
